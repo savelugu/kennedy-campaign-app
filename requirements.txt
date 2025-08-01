@@ -4,3 +4,4 @@ streamlit-carousel
 pillow
 pymupdf
 pandas
+gTTS
