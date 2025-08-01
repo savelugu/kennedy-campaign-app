@@ -1,5 +1,7 @@
 streamlit
+streamlit-option-menu
 pillow
 pymupdf
 pandas
+
 
